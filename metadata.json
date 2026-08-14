@@ -1,0 +1,6 @@
+{
+  "name": "CalcGPT",
+  "description": "CalcGPT calculator with 2D Cartesian graphing, handwritten equation solver, math assistance, and history export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
